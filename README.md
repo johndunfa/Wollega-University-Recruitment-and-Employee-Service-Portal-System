@@ -1,4 +1,4 @@
-# MiNT Jobs - Resume Scoring System
+# Resume Scoring System
 
 ## Overview
 
